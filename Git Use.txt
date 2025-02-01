@@ -1,0 +1,14 @@
+1. Create New repository
+
+   echo "# full-stack-with-vedant" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/vedant-Prajapati/full-stack-with-vedant.git
+git push -u origin main
+
+
+
+2. for add particular file => git add (file_name)
+3. for add all file's => git add .
