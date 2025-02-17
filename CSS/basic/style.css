@@ -1,0 +1,28 @@
+/* h1 is Selector */
+/* color is Property */
+/* #ff3368 is Value */
+
+h3{
+    color: #ff3368;
+}
+
+/* Class Selector */
+
+.c{
+    color: darkturquoise;
+}
+/* ID Selector */
+
+#i{
+    color: brown;
+}
+
+#btn{
+    background-color: palevioletred;
+    color: beige;
+}
+
+#btn:hover{
+    background-color: beige;
+    color:  palevioletred;
+}
